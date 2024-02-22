@@ -37,6 +37,12 @@ The home page of the Star Wars Planets website provides an overview of featured 
 
 ![image](https://github.com/MR-Shivam-Tiwari/Star-Wars-Planets/assets/114647321/3cbb786f-3072-4c3b-9ef4-b6cbc84b8b19)
 
+### Responsive Design
+
+![image](https://github.com/MR-Shivam-Tiwari/Star-Wars-Planets/assets/114647321/8abaf3fe-976f-420c-aead-acc293836a51)
+![image](https://github.com/MR-Shivam-Tiwari/Star-Wars-Planets/assets/114647321/5ca7d077-9a2f-49a6-8470-d28a93ab1ec6)
+
+
 
 
 
